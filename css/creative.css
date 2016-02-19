@@ -1,8 +1,4 @@
-/*!
- * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
+
 
 html,
 body {
@@ -148,7 +144,7 @@ aside {
 
     .navbar-default.affix {
         border-color: rgba(34,34,34,.05);
-        background-color: #fff;
+        background-color: #000;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand {
@@ -274,7 +270,7 @@ header .header-content .header-content-inner p {
     text-align: center;
     color: #fff;
     opacity: 0;
-    background: rgba(141, 200, 64, 0.9);
+    background: rgba(40, 205, 34, 0.5);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
