@@ -1,8 +1,4 @@
-/*!
- * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
+
 
 html,
 body {
@@ -16,7 +12,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #f05f40;
+    border-color: #33E73C;
     border-width: 3px;
 }
 
@@ -25,7 +21,7 @@ hr.light {
 }
 
 a {
-    color: #f05f40;
+    color: #33E73C;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -33,7 +29,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+    color: #33E73C;
 }
 
 h1,
@@ -52,7 +48,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #f05f40;
+    background-color: #3C3838;
 }
 
 .bg-dark {
@@ -89,12 +85,12 @@ aside {
     text-transform: uppercase;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
-    color: #f05f40;
+    color: #33E73C;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: #33E73C;
 }
 
 .navbar-default .nav > li>a,
@@ -107,12 +103,12 @@ aside {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: #f05f40;
+    color: #33E73C;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #f05f40!important;
+    color: #33E73C!important;
     background-color: transparent;
 }
 
@@ -148,17 +144,17 @@ aside {
 
     .navbar-default.affix {
         border-color: rgba(34,34,34,.05);
-        background-color: #fff;
+        background-color: #000;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand {
         font-size: 14px;
-        color: #f05f40;
+        color: #33E73C;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
     .navbar-default.affix .navbar-header .navbar-brand:focus {
-        color: #eb3812;
+        color: #33E73C;
     }
 
     .navbar-default.affix .nav > li>a,
@@ -168,7 +164,7 @@ aside {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: #f05f40;
+        color: #33E73C;
     }
 }
 
@@ -274,7 +270,7 @@ header .header-content .header-content-inner p {
     text-align: center;
     color: #fff;
     opacity: 0;
-    background: rgba(240,95,64,.9);
+    background: rgba(40, 205, 34, 0.5);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
